@@ -4,6 +4,10 @@
 /*border: 1px solid black;*/
 /*}*/
 
+body {
+	background-color: lightblue;
+}
+
 .fancy-box {
 	background-color: dodgerblue;
 	padding: 2rem;
