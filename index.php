@@ -60,17 +60,17 @@
 					<div class="row">
 						<div class="col-md-4">
 							<div class="fancy-box">
-								Column 4/12
+								asuh
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="fancy-box">
-								Column 4/12
+								deez nutz
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="fancy-box">
-								Column 4/12
+								Got eem
 							</div>
 						</div>
 					</div>
@@ -79,12 +79,12 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="fancy-box">
-								Column 6/12
+								ooo kill em ooo kill em ooo kill em
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="fancy-box">
-								Column 6/12
+								yah yah yah yah yah yah yah yah yah yah yah yah yah yah yah yah yah
 							</div>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						=^. .^= Meow!
+
 					</div>
 					<div class="col-md-6">
 						&copy;
