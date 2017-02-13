@@ -41,7 +41,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
-							<h1>This is the Bootstrap Demo</h1>
+							<h1>Dankest bootstrap you ever seen</h1>
 						</div>
 					</div>
 				</div>
@@ -52,7 +52,7 @@
 					<!-- row 1-->
 					<div class="row">
 						<div class="col-xs-12">
-							<h1>Hai! I'm a Bootstrap Page! :D</h1>
+							<h1>New bootstrap who dis?</h1>
 						</div>
 					</div>
 
@@ -123,7 +123,7 @@
 						=^. .^= Meow!
 					</div>
 					<div class="col-md-6">
-						&copy; 2017 Senator Arlo Productions
+						&copy;
 					</div>
 				</div>
 			</div>
