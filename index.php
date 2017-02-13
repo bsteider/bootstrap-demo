@@ -93,22 +93,22 @@
 					<div class="row">
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
+								Oh shoot waddup
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
+								I heard you like Bill Murray
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
+								You came to the right diddly
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
+								Ye
 							</div>
 						</div>
 					</div>
